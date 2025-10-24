@@ -1,8 +1,8 @@
 # SHAWN YAT SIN
 ## About Me 🌱
-My name is Shawn and I recently graduated from McGill University 🇨🇦 majoring in Software Engineering. I enjoy tackling new projects, collaborating with others, and learning new technologies. Currently, I am completing a full-stack web development bootcamp, grinding leetcode, and learning C++ in my spare time. 
+My name is Shawn and I recently graduated from McGill University 🇨🇦 majoring in Software Engineering. I enjoy tackling new projects, collaborating with others, and learning new technologies. Currently, I am completing a full-stack web development bootcamp, grinding leetcode, and building projects for fun and experience. 
 
-Outside of work and academics, I spend my time staying active through community sports such as volleyball 🏐 and dragonboat 🐉 as well as working out 💪 at home and skateboarding 🛹 or biking 🚴 around the neighborhood. I am also part of the Hong Kong Student Network as VP Internal at McGill and had the pleasure of taking Japanese and Korean courses.
+Outside of work and academics, I spend my time staying active through community sports such as volleyball 🏐 and dragonboat 🐉 as well as working out 💪 at home and skateboarding 🛹 or biking 🚴 around the neighborhood. I was also part of the Hong Kong Student Network as VP Internal at McGill and had the pleasure of taking Japanese and Korean courses.
 
 ## Tech Stack 💻
 <p>
