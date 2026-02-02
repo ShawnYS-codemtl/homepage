@@ -1,8 +1,8 @@
 # SHAWN YAT SIN
 ## About Me 🌱
-My name is Shawn and I recently graduated from McGill University 🇨🇦 majoring in Software Engineering. I enjoy tackling new projects, collaborating with others, and learning new technologies. Currently, I am completing a full-stack web development bootcamp, grinding leetcode, and building projects for fun and experience. 
+My name is Shawn and I recently graduated from McGill University 🇨🇦 majoring in Software Engineering. I enjoy tackling new projects, collaborating with others, and learning new technologies. I’m passionate about building intuitive, reliable web applications to achieve products that delight users and drive business results.
 
-Outside of work and academics, I spend my time staying active through community sports such as volleyball 🏐 and dragonboat 🐉 as well as working out 💪 at home and skateboarding 🛹 or biking 🚴 around the neighborhood. I was also part of the Hong Kong Student Network as VP Internal at McGill and had the pleasure of taking Japanese and Korean courses.
+Outside of work and academics, I spend my time staying active through sports such as volleyball 🏐 and bouldering 🪨 as well as working out 💪 at home and skateboarding 🛹 or biking 🚴 around the neighborhood in the summer. I also enjoy reading fiction, especially mystery, romance, and fantasy books. I was also part of the Hong Kong Student Network as VP Internal at McGill and had the pleasure of taking Japanese and Korean courses.
 
 ## Tech Stack 💻
 <p>
@@ -15,10 +15,12 @@ Outside of work and academics, I spend my time staying active through community 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" />
 <img width="40" height="40" src="https://img.icons8.com/color/48/ejs.png" alt="ejs"/>
+<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts"/>
+
 </p>
 
 
-Programming Languages: Python, Java, C, SQL, HTML, CSS, Javascript, Bash, EJS
+Programming Languages: Python, Java, C, SQL, HTML, CSS, Javascript, Bash, EJS, TypeScript
 
 <br>
 <p>
@@ -34,9 +36,11 @@ Programming Languages: Python, Java, C, SQL, HTML, CSS, Javascript, Bash, EJS
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="unix"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="unix"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
 </p>
 
-Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Cucumber, SonarQube, pgAdmin4, VSCode, PostgreSQL, npm
+Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Cucumber, SonarQube, pgAdmin4, VSCode, PostgreSQL, npm, Figma, Supabase, Stripe
 
 <br>
 
@@ -51,10 +55,12 @@ Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Cucumber, Sona
   <img width="40" height="40" src="/express-svgrepo-com.svg" alt="git">
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="git">
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="git">
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
+  
 
 
 </p>
-Frameworks: JUnit, Bootstrap, argparse, Matplotlib, BeautifulSoup, Pandas, unittest, jQuery, JSON, csv, EMF, Java Swing, Express.js, Node.js, Axios
+Frameworks: JUnit, Bootstrap, argparse, Matplotlib, BeautifulSoup, Pandas, unittest, jQuery, JSON, csv, EMF, Java Swing, Express.js, Node.js, Axios, Tailwind CSS
 
 ## Projects I've Contributed To
 - [Mars AI Rover Simulator](https://github.com/seagram/MarsRoverSimulator)
